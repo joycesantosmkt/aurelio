@@ -1,18 +1,15 @@
 # Como rodar o Aurélio localmente
 
-## Backend
+## Worker (Backend)
 
 ```bash
-cd backend
-python -m venv .venv
-.venv\Scripts\activate        # Windows
-pip install -r requirements.txt
-cp .env.example .env          # preencha as variáveis
-uvicorn app.main:app --reload
+cd worker
+npm install
+cp .dev.vars.example .dev.vars   # preencha as variáveis
+npm run dev
 ```
 
-API disponível em: http://localhost:8000
-Docs automáticas: http://localhost:8000/docs
+API disponível em: http://localhost:8787
 
 ## Frontend
 
@@ -24,11 +21,20 @@ npm run dev
 
 Dashboard disponível em: http://localhost:5173
 
+## Criar banco D1 no Cloudflare
+
+```bash
+cd worker
+npx wrangler d1 create aurelio
+# Copie o database_id gerado e cole no wrangler.toml
+npm run db:migrate:local   # aplica migrações local
+npm run db:migrate         # aplica migrações em produção
+```
+
 ## Contas necessárias
 
-| Serviço | Link | Gratuito? |
+| Serviço | Uso | Custo |
 |---|---|---|
-| Supabase (banco) | supabase.com | Sim |
-| Railway (backend) | railway.app | Sim (trial) |
-| Cloudflare Pages (frontend) | cloudflare.com | Sim |
-| Meta for Developers (WhatsApp) | developers.facebook.com | Sim (sandbox) |
+| Cloudflare | Worker + D1 + Pages | Gratuito |
+| GitHub | Código + CI/CD | Gratuito |
+| Meta for Developers | WhatsApp API | Gratuito (sandbox) |

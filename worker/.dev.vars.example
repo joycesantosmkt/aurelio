@@ -1,0 +1,7 @@
+# Copie este arquivo para .dev.vars para rodar localmente
+# NUNCA suba .dev.vars para o GitHub
+
+WHATSAPP_TOKEN=seu-token-aqui
+WHATSAPP_PHONE_ID=seu-phone-id-aqui
+WHATSAPP_WEBHOOK_SECRET=sua-senha-webhook
+SECRET_KEY=chave-secreta-jwt

@@ -1,22 +1,18 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
+# Dependencies
+node_modules/
 .venv/
-venv/
-dist/
-build/
-.pytest_cache/
+
+# Build outputs
+frontend/dist/
+worker/dist/
 
 # Environment
 .env
 .env.local
-.env.*.local
+.dev.vars
 
-# Node / Frontend
-node_modules/
-frontend/dist/
-frontend/.vite/
+# Wrangler
+.wrangler/
 
 # IDE
 .vscode/
@@ -25,4 +21,3 @@ frontend/.vite/
 
 # Logs
 *.log
-logs/
