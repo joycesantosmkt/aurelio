@@ -6,11 +6,11 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "aurelio"
-database_id = "PREENCHER-APOS-CRIAR-D1"
+database_id = "debbd535-295c-45f0-8a2f-358bc5c0941b"
 
 [vars]
 ENVIRONMENT = "production"
 FRONTEND_URL = "https://aurelio.pages.dev"
 
-[[triggers]]
+[triggers]
 crons = ["0 20 * * *"]
