@@ -178,7 +178,7 @@ Quando o empreendedor se frustrar com algo (ex: taxas de maquininha), o Aurélio
 ## 5. Funcionalidades MVP
 
 ### 1. Onboarding via WhatsApp
-Coleta: nome, tratamento, negócio, formas de pagamento, PIX, maquininhas e taxas, fiado, produtos/serviços, meta pessoal, histórico.
+Coleta: nome, tratamento, negócio, formas de pagamento, PIX, maquininhas e taxas, **prazo de liquidação de cada maquininha (em quantos dias cai na conta)**, fiado, produtos/serviços, meta pessoal, histórico.
 
 ### 2. Recebimento de comprovantes
 Aceita foto, PDF, texto e áudio. Identifica automaticamente: entrada ou saída, valor, data, quem pagou/recebeu, forma de pagamento, produto/serviço. Confirma com o empreendedor antes de registrar.
@@ -216,12 +216,27 @@ Com 2-3 meses de dados: projeções de fechamento, alertas de custo crescente, r
 ### 9. Rastreio de custos informais
 Pergunta sobre compras do próprio bolso. Soma como custo real. Mostra lucro real vs lucro percebido.
 
-### 10. Alertas de dias de pico
-Avisa nos dias 1, 5 e 20 (dias de salário). Aprende padrões do negócio ao longo do tempo.
+### 10. Alertas inteligentes proativos
+**Alertas de atenção:**
+- Boleto próximo do vencimento
+- Fiado vencendo amanhã
+- Estoque de produto chegando no limite mínimo
+- Meta do dia não atingida às 17h
+- Custo com fornecedor X subiu esse mês
+- Dias de pico: avisa nos dias 1, 5 e 20 (dias de salário dos clientes)
 
-### 11. Check-ins proativos
-- 12h: se não recebeu nada, pergunta se tem comprovante
-- 18h30: confirma se está tudo registrado
+**Alertas positivos (celebração):**
+- Melhor semana do mês — parabéns!
+- Meta do dia batida antes das 17h
+- Melhor mês do ano até agora
+
+### 11. Mensagens automáticas ao longo do dia
+- **08h00:** Bom dia + quanto precisa vender hoje para bater a meta
+- **12h00:** Se não recebeu nada ainda, pergunta se tem comprovante
+- **17h00:** Se a meta do dia ainda não foi atingida, alerta proativo
+- **18h30:** Confirmação diária — lista tudo que registrou, pergunta se faltou algo
+- **19h00:** Envia os dois semáforos (Status do Dia + Saúde do Caixa)
+- **Dia 30:** Fechamento mensal completo
 
 ### 12. Relatar erro para Joyce
 Merchant digita "quero relatar um problema" → Aurélio pede descrição → envia relatório automático para o WhatsApp da Joyce com: nome, negócio, descrição, horário, última ação registrada. Aurélio confirma ao merchant: "Já mandei pra Joyce. Ela vai analisar e te retorna em breve." Comunicado ao merchant no Contrato do Compadre como promessa de segurança.
@@ -235,6 +250,46 @@ Empreendedor pergunta qualquer coisa em linguagem natural. Aurélio responde com
 - Tela 3: Fiado (clientes, saldos, status cobranças)
 - Tela 4: Estoque (críticos, mais vendidos)
 - Tela 5: Relatórios (fechamentos mensais)
+
+### 16. Relatórios
+
+**Relatórios Diários**
+- 08h00 — Meta do dia: quanto precisa vender para atingir o objetivo
+- 19h00 — Semáforo 1 (Status do Dia): total vendido por forma de pagamento, total pago, resultado do dia, recomendação
+- 19h00 — Semáforo 2 (Saúde do Caixa): saldo atual, o que vai entrar e quando, o que tem a pagar e quando, saldo projetado, recomendação
+
+**Relatórios Mensais (dia 30)**
+- Total faturado e total de saídas
+- Lucro real vs lucro percebido (considerando custos informais)
+- Decomposição do faturamento por produto (valor + % do total)
+- Decomposição por forma de pagamento
+- Custo total com taxas de maquininha no mês
+- Fiado: total em aberto, total recebido, inadimplentes
+- Estoque: mais vendidos, alertas de reposição
+- Comparativo com o mês anterior (quando houver dados)
+- Projeção para o próximo mês
+
+**Relatórios Trimestrais**
+- Análise de margem: impacto das taxas de maquininha por produto
+- Tendências de vendas por categoria
+- Evolução da inadimplência no fiado
+- Crescimento ou redução de custos com fornecedores
+- Progresso em direção à meta pessoal
+
+**Relatórios Semestrais**
+- Produtos mais vendidos por número de pedidos (não por unidades)
+- Produtos com potencial descoberto (alta frequência de pedidos, baixo volume unitário)
+- Análise de sazonalidade do negócio
+- Evolução do lucro real vs percebido no período
+- Comparativo entre os dois semestres
+
+**Relatórios Anuais**
+- Fechamento completo do ano
+- Comparativo mês a mês ao longo do ano
+- Produtos campeões do ano
+- Maior custo do ano
+- Progresso das metas pessoais
+- Projeção e recomendações para o ano seguinte
 
 ### 15. Área ADM (acesso exclusivo Joyce)
 
