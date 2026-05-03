@@ -218,6 +218,23 @@ Empreendedor pergunta qualquer coisa em linguagem natural. Aurélio responde com
 - Tela 4: Estoque (críticos, mais vendidos)
 - Tela 5: Relatórios (fechamentos mensais)
 
+### 15. Área ADM (acesso exclusivo Joyce)
+
+**Painel web:**
+- Lista de todos os empreendedores ativos + status do dia (usou / não usou)
+- Por empreendedor: transações, mensagens trocadas, funcionalidades usadas, alertas gerados
+- Log de erros reportados ("relatar problema") + erros técnicos do sistema
+- Indicadores de engajamento: mensagens enviadas, respondidas, etapa do onboarding
+
+**Resumo diário no WhatsApp da Joyce (fim do dia):**
+- Por empreendedor: o que fez, o que ignorou, pontos críticos, pontos positivos de usabilidade
+- Alerta quando detectar que um empreendedor tomou uma decisão de negócio com base nos dados
+
+**Detecção de decisão com base nos dados — três formas:**
+1. **Confirmação explícita:** empreendedor confirma que vai agir após recomendação do Aurélio → registrado automaticamente
+2. **Pergunta de acompanhamento:** Aurélio pergunta no dia seguinte se a recomendação foi executada
+3. **Detecção por comportamento:** Aurélio percebe mudança de padrão após recomendação (ex: PIX aumentou após sugestão de reduzir taxas)
+
 ---
 
 ## 6. Funcionalidades Fase 2
