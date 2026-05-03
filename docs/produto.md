@@ -135,7 +135,25 @@ Quando o empreendedor se frustrar com algo (ex: taxas de maquininha), o Aurélio
 
 ### Bloco 4 — Seus produtos ou serviços
 
-*(mensagens a escrever)*
+**Informações a coletar:**
+- Vende produtos, serviços ou os dois
+- Campeões de venda (5-10 itens) + quantidade atual em estoque
+- Unidade de venda por produto: Unidade, Kg, G, Metro, CM, Litro, ML — ou outra que o merchant definir
+- Se vende na mesma unidade que compra: confirmar equivalência (ex: 1 saco = 15kg)
+- Limite mínimo de estoque por produto — definido pelo próprio merchant, não pelo Aurélio
+- Para serviços: nome e preço de cada um
+
+**Lógica de adaptação:**
+- Se apenas serviços → sem controle de estoque, só catálogo com preços
+- Se apenas produtos → fluxo completo de estoque
+- Se os dois → fluxo de produtos primeiro, depois serviços
+- Se a quantidade informada parecer baixa para o tipo de negócio → sinalizar imediatamente e perguntar qual o mínimo com que o merchant se sente confortável
+- Merchant pode redefinir o limite mínimo a qualquer momento
+
+**Princípios:**
+- Nunca presumir a unidade de venda — sempre perguntar
+- O merchant define o próprio critério de alerta — Aurélio sugere, não impõe
+- Novos produtos adicionados organicamente via vendas — não forçar listagem completa no onboarding
 
 ---
 
