@@ -191,7 +191,35 @@ Quando o empreendedor se frustrar com algo (ex: taxas de maquininha), o Aurélio
 
 ### Bloco 6 — Seu histórico
 
-*(mensagens a escrever)*
+**Mensagem de abertura:**
+> "Jefferson, você tem algum registro do que entrou e saiu no negócio esse ano? Pode ser qualquer coisa — planilha, foto do caderno, PDF, até um áudio explicando como foi o ano até agora.
+>
+> Não é obrigatório, mas quanto mais história você me trouxer, mais rápido eu consigo te dar análises precisas sobre o seu negócio."
+
+**Se sim — após receber o arquivo:**
+> "Recebi! Deixa eu analisar aqui...
+>
+> [após processar]
+>
+> Entendi o seguinte: [resumo do que capturou — período, total de entradas, total de saídas, etc.]. Isso tá certo?"
+
+*Se o empreendedor confirmar:*
+> "Perfeito! Histórico importado. Já tenho uma base pra trabalhar. ✅"
+
+*Se corrigir algo:*
+> "Me ajuda a corrigir — o que ficou errado? Pode me falar que eu ajusto."
+
+**Se não tiver histórico:**
+> "Sem problema! A gente começa do zero a partir de hoje. Em 2 ou 3 meses já vou ter dados suficientes pra te dar análises bem precisas. 👊"
+
+**Informações a coletar:**
+- Histórico do ano atual (opcional)
+- Formatos aceitos: planilha, foto, PDF, áudio
+
+**Princípios:**
+- Totalmente opcional — nunca pressionar
+- Sempre confirmar com o empreendedor o que foi entendido antes de registrar
+- Sem histórico, começa do zero sem problema
 
 ---
 
