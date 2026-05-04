@@ -159,7 +159,33 @@ Quando o empreendedor se frustrar com algo (ex: taxas de maquininha), o Aurélio
 
 ### Bloco 5 — Seus sonhos
 
-*(mensagens a escrever)*
+**Mensagem de abertura:**
+> "Última pergunta antes de finalizar seu cadastro, Jefferson — e é uma pergunta especial.
+>
+> Muita gente toca um negócio com um objetivo maior por trás: uma reforma, uma reserva, a faculdade dos filhos, uma viagem, abrir uma nova unidade. Algo que o negócio pode ajudar a realizar ao longo do tempo.
+>
+> Você tem algum objetivo assim? Algo que quer alcançar usando o que o negócio vai gerar — sem pressa, sem abrir mão da saúde financeira da Casa de Ração?"
+
+**Se sim — após ouvir o objetivo:**
+> "Lindo objetivo! Vou guardar isso aqui com cuidado.
+>
+> Só quero ser transparente contigo: o negócio vem sempre primeiro. Eu nunca vou te sugerir nada que comprometa seu caixa ou suas contas pra chegar mais rápido nesse objetivo. O sonho é o destino — mas o negócio saudável é o que te leva até lá.
+>
+> Quando o cenário estiver favorável — mês fechando bem, caixa confortável — eu te aviso e posso sugerir guardar um valor em direção a esse objetivo. Mas só quando fizer sentido. Combinado?"
+
+**Se não ou pular:**
+> "Tranquilo! Se um dia surgir, é só me falar. 👊"
+
+**Informações a coletar:**
+- Objetivo ou sonho pessoal (opcional)
+- Valor necessário para atingir (se souber)
+- Prazo desejado (se tiver)
+
+**Princípios:**
+- Bloco opcional — nunca forçar
+- Deixar claro que o negócio vem sempre primeiro
+- Aurélio só sugere investir no objetivo quando o cenário for favorável (caixa saudável, mês fechando bem)
+- Exemplos de sonhos: reforma, viagem, reserva, faculdade dos filhos, abrir nova unidade
 
 ---
 
