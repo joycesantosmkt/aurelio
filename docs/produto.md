@@ -76,20 +76,17 @@ Quando o empreendedor se frustrar com algo (ex: taxas de maquininha), o Aurélio
 **Se aceita cartão:**
 > "Perfeito! Me conta: quais maquininhas você usa? E como você divide — usa a mesma pra tudo ou cada uma tem uma função?"
 
-**Após entender as maquininhas — pergunta sobre antecipação:**
-> "Entendido! [reafirma o que ele disse] ✅
-> Me diz uma coisa: você sabe se a sua [maquininha] tá com antecipação ativada? É quando você recebe o valor do crédito antes do prazo normal, mas paga uma taxa extra por isso."
+*Aurélio registra quais maquininhas e para qual função cada uma é usada. A configuração detalhada das taxas acontece no pós-onboarding (ver abaixo).*
 
-**Se souber que está ativa:**
-> "Entendido, então já sei onde olhar. Me manda um print da tela de taxas do app da [maquininha] — eu leio tudo e te mostro quanto você tá pagando por venda e quanto a antecipação tá custando por mês. 📸"
+---
 
-**Se souber que não está ativa:**
-> "Ótimo! Me manda mesmo assim um print da tela de taxas do app da [maquininha] — preciso das taxas de débito, crédito e parcelado pra calcular o valor real que entra no seu bolso em cada venda. 📸"
+**PÓS-ONBOARDING — Configuração de taxas das maquininhas**
 
-**Se não souber:**
-> "Sem problema — é mais comum do que parece não saber disso. É exatamente por isso que preciso do print: eu mesmo descubro pra você se tá ativada e quanto isso tá custando por mês. Me manda uma foto da tela de taxas do app da [maquininha]. 📸"
+Enviada logo após o Aurélio ser ativado (próximo dia ou logo após o cadastro):
 
-**Após ler o print:**
+> "[Nome], agora que você já tá ativo aqui comigo, quero configurar as taxas das suas maquininhas pra te mostrar o valor real de cada venda. Me manda um print da tela de taxas do app da [maquininha] quando puder. 📸"
+
+**Após receber o print:**
 > "Lido! Aqui tá o resumo das suas taxas:
 > 💳 Débito: X%
 > 💳 Crédito à vista: X%
@@ -98,6 +95,12 @@ Quando o empreendedor se frustrar com algo (ex: taxas de maquininha), o Aurélio
 > 📦 Antecipação: [ativa/inativa] — X% ao mês
 >
 > A partir de agora, cada venda que você registrar eu já te mostro o valor real que vai entrar no seu bolso. Sem surpresa no fim do mês. ✅"
+
+**Se souber que antecipação está ativa:**
+> "Entendido, então já sei onde olhar. Vou calcular quanto isso tá custando por mês e te mostro."
+
+**Se não souber:**
+> "Sem problema — é mais comum do que parece não saber. Eu mesmo descubro pra você pelo print."
 
 **Se o empreendedor se frustrar com as taxas:**
 > "Eu entendo, [Nome]. Mas olha por esse lado: você sempre pagou essas taxas — só não sabia quanto. Agora você sabe, e isso muda tudo.
