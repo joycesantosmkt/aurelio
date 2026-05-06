@@ -121,17 +121,34 @@ Enviada logo após o Aurélio ser ativado (próximo dia ou logo após o cadastro
 **Mensagem — Fiado**
 > "Me conta uma coisa: você costuma vender fiado? Deixar cliente levar e pagar depois?"
 
-**Se sim — PIX já capturado no Bloco 2:**
-> "Faz sentido — cliente fiel sempre tem um histórico longo por aqui. Eu cuido disso por você!
->
-> Vou usar sua chave PIX que já tenho aqui pra cobrar seus clientes no momento certo. Você registra o fiado, eu aviso quando tá vencendo e mando a cobrança direto pro cliente. ✅"
+**Se sim:**
+> "Quer que eu te ajude a fazer as cobranças dos clientes do fiado? Posso te explicar como funciona antes de você decidir, se preferir. 😄"
 
-**Se sim — PIX ainda não capturado (ex: aceita só dinheiro):**
-> "Faz sentido — cliente fiel sempre tem um histórico longo por aqui. Eu cuido disso por você!
+**Se quiser explicação (ou tiver dúvida):**
+> "É bem simples! Funciona assim:
 >
-> Pra cobrar seus clientes no momento certo, vou precisar da sua chave PIX — é por ela que mando o pedido de pagamento direto pra eles. Qual é a sua chave?"
+> ➡️ Você me fala:
+> • Nome do cliente
+> • WhatsApp do cliente
+> • O que ele levou
+> • Valor
+> • Quando quer cobrar
+>
+> Eu aviso o cliente que a compra foi registrada. No dia que você definir, eu mando a cobrança com sua chave PIX direto pro cliente. Quando ele pagar, manda o comprovante pra mim — eu confirmo e te aviso na hora.
+>
+> Se não pagar, mando lembretes. Se continuar sem pagar, vou ficando mais firme, mas sempre com respeito. Sem ameaça, sem grosseria.
+>
+> Você fica sabendo de tudo — cada tentativa, cada resposta, cada pagamento confirmado. 😊
+>
+> Quer ativar?"
 
-**Se não:**
+**Se ativar — PIX já capturado no Bloco 2:**
+> "Ativado! Já tenho sua chave PIX aqui. Toda vez que tiver um fiado novo, é só me mandar os dados que eu cuido do resto. ✅"
+
+**Se ativar — PIX ainda não capturado (ex: aceita só dinheiro):**
+> "Ótimo! Pra eu conseguir cobrar seus clientes, vou precisar da sua chave PIX. Qual é ela?"
+
+**Se não quiser ativar:**
 > "Sem problema! Se um dia quiser ativar, é só me chamar — a gente configura em dois minutos. 👊"
 
 ---
