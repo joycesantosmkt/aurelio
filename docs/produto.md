@@ -255,9 +255,7 @@ Enviada logo após o Aurélio ser ativado (próximo dia ou logo após o cadastro
 >
 > E conforme a gente for avançando juntos e eu for conhecendo melhor o seu negócio, mais coisas eu consigo fazer por você. 👊
 >
-> E se eu errar alguma coisa — é só falar 'quero relatar um problema' que eu aviso a Joyce na hora. Aqui sempre tem um humano do lado. 🙏
->
-> Bora fazer seu negócio trabalhar pelos seus sonhos? 🚀"
+> E se eu errar alguma coisa — é só falar 'quero relatar um problema' que eu aviso a Joyce na hora. Aqui sempre tem um humano do lado. 🙏"
 
 ---
 
