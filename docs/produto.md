@@ -267,6 +267,9 @@ Coleta: nome, tratamento, negócio, formas de pagamento, PIX, maquininhas e taxa
 ### 2. Recebimento de comprovantes
 Aceita foto, PDF, texto e áudio. Identifica automaticamente: entrada ou saída, valor, data, quem pagou/recebeu, forma de pagamento, produto/serviço. Confirma com o empreendedor antes de registrar.
 
+**Compras parceladas — tratamento orgânico (não perguntar no onboarding):**
+Quando o merchant registrar uma compra, Aurélio pergunta: "Você pagou à vista ou parcelado?" — se parcelado, pergunta o número de parcelas e datas de vencimento para monitorar o fluxo de caixa. Não é perguntado no onboarding pois a maioria dos pequenos comércios (ex: pet shop, acessórios) tem compras de baixo ticket médio pagas à vista.
+
 ### 3. Registro de vendas com cálculo de taxas
 Captura débito, PIX, crédito (com parcelas), dinheiro. Calcula valor líquido real após taxas da maquininha. Considera antecipação por venda. Mostra: "Você vendeu R$X, vai receber R$Y após taxas."
 
