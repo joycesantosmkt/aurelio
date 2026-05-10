@@ -294,6 +294,10 @@ Lista tudo que o Aurélio capturou no dia. Formato: Dinheiro / Cartão / PIX / S
 ### 6. Caderneta de fiado com cobrança automática
 Registro via WhatsApp. Pede WhatsApp do cliente → envia confirmação automática. Agenda cobrança. Executa cobrança com chave PIX. Escala tom em inadimplência (firme, sem ameaça). Relatório de inadimplentes.
 
+**Identidade nas cobranças — como o cliente recebe:**
+- **MVP:** Aurélio opera de um número próprio, mas se identifica como assistente da loja: *"Olá! Sou o assistente da [nome da loja]. Sua compra de R$X está vencendo..."* — mantém clareza sem exigir setup complexo
+- **Fase 2:** Cada loja conecta seu próprio número de WhatsApp ao Aurélio. Cobranças saem do número que o cliente já tem salvo na agenda — maior taxa de resposta e confiança
+
 ### 7. Controle de estoque e catálogo de produtos
 Onboarding começa pelos campeões de venda (5-10 itens) com quantidade atual. Novos produtos adicionados organicamente via vendas. Abate automático quando registra venda. Alerta de estoque baixo. Relatório mensal com decomposição do faturamento por produto (valor + % do total).
 
